@@ -2,7 +2,7 @@
 
 int mian()
 {
-    printf("halal");
+    printf("hala3");
 
     return 0;
 }
